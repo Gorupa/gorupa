@@ -1,17 +1,23 @@
-# Hi there, I'm Gaurav 👋
+# Hi there, I'm gorupa 👋
 
-I am a first-year LLB student at Mohan Lal Sukhadia University (MLSU) bridging the gap between law and technology. I am passionate about open-source development, digital infrastructure, and creating free, accessible resources for students.
+I build free, privacy-first browser tools and open-source student resources. My focus is on creating lightweight, accessible applications that run 100% locally—no ads, no tracking, and zero server uploads.
 
-### 🚀 What I'm currently working on
-* **[MLSU Study Resources](https://github.com/gorupa/mlsu-notes):** An open-source, multi-page platform providing free handwritten notes and past papers for LLB students. 
-* **Client-Side PDF Compressor:** A web application to help students compress document sizes instantly in their browser.
-
-### 🌱 My Background
-* ⚖️ **Law & Academics:** Focusing on Indian Contract Law and legal drafting.
-* 🤝 **Community Service:** Former United Nations Volunteer (UNV) and 3-year volunteer with Nehru Yuva Kendra Sangathan (NYKS).
-* 💻 **Tech Interests:** Web development, UI/UX design, and exploring India's UPI and digital banking architecture.
-
-### 📫 How to reach me
-* **GitHub:** [@gorupa](https://github.com/gorupa)
 ---
-*"Building digital tools to help the community succeed."*
+
+## 🚀 Featured Projects
+
+### 🛠️ Browser Tools
+* **[Local Image Compressor](https://local-image-compressor.pages.dev/)** <br> Compress JPG & PNG images instantly in your browser. Live size preview with a quality slider. Built with the Canvas API.
+* **[Image to PDF](https://image-to-pdf-afb.pages.dev/)** <br> Convert JPG, PNG & WebP images into a PDF. Features drag-to-reorder, page sizing, and custom margins. Built with jsPDF.
+
+### 📚 Student Resources
+* **[MLSU Law Resources](https://mlsu-dhj.pages.dev/)** <br> Free notes, syllabus, and past papers for Mohan Lal Sukhadia University LLB & BA.LLB students. Filter by course, year, and subject.
+
+---
+
+## 💻 Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
