@@ -1,23 +1,58 @@
-# Hi there, I'm gorupa 👋
+# gorupa
 
-I build free, privacy-first browser tools and open-source student resources. My focus is on creating lightweight, accessible applications that run 100% locally—no ads, no tracking, and zero server uploads.
-
----
-
-## 🚀 Featured Projects
-
-### 🛠️ Browser Tools
-* **[Local Image Compressor](https://local-image-compressor.pages.dev/)** <br> Compress JPG & PNG images instantly in your browser. Live size preview with a quality slider. Built with the Canvas API.
-* **[Image to PDF](https://image-to-pdf-afb.pages.dev/)** <br> Convert JPG, PNG & WebP images into a PDF. Features drag-to-reorder, page sizing, and custom margins. Built with jsPDF.
-
-### 📚 Student Resources
-* **[MLSU Law Resources](https://mlsu-dhj.pages.dev/)** <br> Free notes, syllabus, and past papers for Mohan Lal Sukhadia University LLB & BA.LLB students. Filter by course, year, and subject.
+> *"Moving beyond beautiful experiences that nobody wants, my endeavor is to build purpose-driven, open-source software — where human-centric design meets the real needs of real people."*
 
 ---
 
-## 💻 Tech Stack & Tools
+### What I build
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Law student. Open source developer. Building at the intersection of law, technology and India's digital infrastructure.
+
+---
+
+### Projects
+
+#### 🛠️ Browser Tools
+| Project | Description |
+|---|---|
+| [Local Image Compressor](https://local-image-compressor.pages.dev) | Compress JPG & PNG locally — no uploads |
+| [Image to PDF](https://image-to-pdf-afb.pages.dev) | Convert images to PDF in your browser |
+| [PDF Tools](https://pdf-tools-dgs.pages.dev) | Compress, lock, unlock and merge PDFs |
+| [CashRoute](https://cashroute-deh.pages.dev) | Clean wallet to bank transfer interface |
+
+#### 📦 JavaScript Libraries
+| Project | Description |
+|---|---|
+| [pulsekit.js](https://gorupa.github.io/pulsekit/demo/) | First open source JS library for PhonePe Pulse India payments data |
+| [india-validators](https://gorupa.github.io/india-validators/demo/) | Client-side validation for Aadhaar, PAN, GSTIN, IFSC, UPI and more |
+
+#### ⚖️ Civic Tech
+| Project | Description |
+|---|---|
+| [vaad.in](https://vaad.pages.dev) | Track Indian court cases — powered by eCourts India |
+| [MLSU Law Resources](https://mlsu-dhj.pages.dev) | Free notes and past papers for MLSU LLB students |
+
+---
+
+### Stack
+
+`Vanilla JS` `Node.js` `HTML5` `CSS3` `Canvas API` `pdf-lib` `REST APIs`
+
+---
+
+### Principles
+
+- **Privacy first** — your data stays on your device
+- **No ads, ever** — free for everyone, always
+- **Open source** — every line of code is public
+- **Purpose-driven** — solve real problems, not imaginary ones
+
+---
+
+<div align="center">
+
+[![gorupa.github.io](https://img.shields.io/badge/Portfolio-gorupa.github.io-0a0a0f?style=for-the-badge)](https://gorupa.github.io)
+[![npm](https://img.shields.io/badge/npm-gorupa-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/~gorupa)
+[![dev.to](https://img.shields.io/badge/dev.to-gorupa-black?style=for-the-badge&logo=devdotto)](https://dev.to/gorupa)
+
+</div>
