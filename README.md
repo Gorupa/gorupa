@@ -52,7 +52,7 @@ Law student. Open source developer. Building at the intersection of law, technol
 <div align="center">
 
 [![gorupa.github.io](https://img.shields.io/badge/Portfolio-gorupa.github.io-0a0a0f?style=for-the-badge)](https://gorupa.github.io)
-[![npm](https://img.shields.io/badge/npm-gorupa-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/~gorupa)
+[![npm](https://img.shields.io/badge/npm-bullpenm-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/~bullpenm)
 [![dev.to](https://img.shields.io/badge/dev.to-gorupa-black?style=for-the-badge&logo=devdotto)](https://dev.to/gorupa)
 
 </div>
