@@ -1,1 +1,1 @@
-⚖️ LLB student building open-source civic tech for India — check out [Vaad](https://vaad.pages.dev), a court case tracker live on the [Play Store](https://play.google.com/store/apps/details?id=dev.pages.vaad.twa).
+⚖️ LLB student building open-source civic tech for India — check out [Vaad](https://gorupa.github.io/vaad-explainer/#), a court case tracker live on the [Play Store](https://play.google.com/store/apps/details?id=dev.pages.vaad.twa).
